@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "カレンデュラ",
+  "base_artist": "RIRIKO",
+  "createdAt": "2026-03-14T16:07:26.444783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カレンデュラ",
+      "artist": "燐舞曲",
+      "has_synced": true,
+      "path": "select/01_カレンデュラ_燐舞曲.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カレンデュラ",
+      "artist": "燐舞曲",
+      "has_synced": false,
+      "path": "select/02_カレンデュラ_燐舞曲.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カレンデュラ -instrumental-",
+      "artist": "燐舞曲",
+      "has_synced": true,
+      "path": "select/03_カレンデュラ_-instrumental-_燐舞曲.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カレンデュラ",
+      "artist": "D4DJ",
+      "has_synced": true,
+      "path": "select/04_カレンデュラ_D4DJ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カレンデュラ レクイエム",
+      "artist": "kanon×kanon",
+      "has_synced": true,
+      "path": "select/05_カレンデュラ_レクイエム_kanon×kanon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カレンデュラ レクイエム (Less Vocal)",
+      "artist": "kanon×kanon",
+      "has_synced": true,
+      "path": "select/06_カレンデュラ_レクイエム_(Less_Vocal)_kanon×kanon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カレンデュラ",
+      "artist": "RONDO",
+      "has_synced": true,
+      "path": "select/07_カレンデュラ_RONDO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カレンデュラ レクイエム (Less Vocal)",
+      "artist": "kanon x kanon;",
+      "has_synced": true,
+      "path": "select/08_カレンデュラ_レクイエム_(Less_Vocal)_kanon_x_kanon;.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カレンデュラ",
+      "artist": "RIRIKO",
+      "has_synced": false,
+      "path": "select/pl_01_カレンデュラ_RIRIKO.txt"
+    }
+  ]
+}
